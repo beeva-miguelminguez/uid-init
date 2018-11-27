@@ -1,0 +1,15 @@
+.is-brand {
+  background:url("image/fractal.svg") no-repeat center center cover $color__brand-primary;
+  color: $color__neutral-white;
+}
+
+
+.view-login {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  &__child {
+    width: 50%;
+  }
+}

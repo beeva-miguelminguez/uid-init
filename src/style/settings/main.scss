@@ -1,0 +1,77 @@
+/* Light */
+  @font-face {
+    font-family: 'Benton-Sans';
+    src: url('./fonts/bbva/BBVABentonSansLight-Regular.eot');
+    src: url('./fonts/bbva/BBVABentonSansLight-Regular.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/bbva/BBVABentonSansLight-Regular.woff') format('woff'),
+         url('./fonts/bbva/BBVABentonSansLight-Regular.ttf') format('truetype'),
+         url('./fonts/bbva/BBVABentonSansLight-Regular.svg#Benton-Sans') format('svg');
+         font-style: normal;
+         font-weight: 300;
+
+  }
+
+  /* Book */
+  @font-face {
+    font-family: 'Benton-Sans';
+    src: url('./fonts/bbva/BBVABentonSans-Book.eot');
+    src: url('./fonts/bbva/BBVABentonSans-Book.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/bbva/BBVABentonSans-Book.woff') format('woff'),
+         url('./fonts/bbva/BBVABentonSans-Book.ttf') format('truetype'),
+         url('./fonts/bbva/BBVABentonSans-Book.svg#Benton-Sans') format('svg');
+         font-style: normal;
+         font-weight: 400;
+
+  }
+
+  /* Book Italic  */
+  @font-face {
+    font-family: 'Benton-Sans';
+    src: url('./fonts/bbva/BBVABentonSans-BookItalic.eot');
+    src: url('./fonts/bbva/BBVABentonSans-BookItalic.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/bbva/BBVABentonSans-BookItalic.woff') format('woff'),
+         url('./fonts/bbva/BBVABentonSans-BookItalic.ttf') format('truetype'),
+         url('./fonts/bbva/BBVABentonSans-BookItalic.svg#Benton-Sans') format('svg');
+         font-style: italic;
+         font-weight: 400;
+
+  }
+
+  /* Medium */
+  @font-face {
+    font-family: 'Benton-Sans';
+    src: url('./fonts/bbva/BBVABentonSansLight-Bold.eot');
+    src: url('./fonts/bbva/BBVABentonSansLight-Bold.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/bbva/BBVABentonSansLight-Bold.woff') format('woff'),
+         url('./fonts/bbva/BBVABentonSansLight-Bold.ttf') format('truetype'),
+         url('./fonts/bbva/BBVABentonSansLight-Bold.svg#Benton-Sans') format('svg');
+         font-style: normal;
+         font-weight: 500;
+
+  }
+
+  /* Medium Italic  */
+  @font-face {
+    font-family: 'Benton-Sans';
+    src: url('./fonts/bbva/BBVABentonSansLight-BoldItalic.eot');
+    src: url('./fonts/bbva/BBVABentonSansLight-BoldItalic.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/bbva/BBVABentonSansLight-BoldItalic.woff') format('woff'),
+         url('./fonts/bbva/BBVABentonSansLight-BoldItalic.ttf') format('truetype'),
+         url('./fonts/bbva/BBVABentonSansLight-BoldItalic.svg#Benton-Sans') format('svg');
+         font-style: italic;
+         font-weight: 500;
+
+  }
+
+  /* Bold */
+  @font-face {
+    font-family: 'Benton-Sans';
+    src: url('./fonts/bbva/BBVABentonSans-Bold.eot');
+    src: url('./fonts/bbva/BBVABentonSans-Bold.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/bbva/BBVABentonSans-Bold.woff') format('woff'),
+         url('./fonts/bbva/BBVABentonSans-Bold.ttf') format('truetype'),
+         url('./fonts/bbva/BBVABentonSans-Bold.svg#Benton-Sans') format('svg');
+         font-style: normal;
+         font-weight: 700;
+
+  }
